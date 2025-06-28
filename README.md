@@ -1,5 +1,3 @@
-# 👋 Seja bem-vindo ao meu perfil no GitHub!
-
 ```bash
 nelson_martins@github:~$ whoami
 Desenvolvedor em formação.
