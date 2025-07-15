@@ -1,28 +1,27 @@
-```bash
-nelson_martins@github:~$ whoami
-Desenvolvedor em formação.
-Estudando Python focado em automação e criação de APIs com Django.
+```java
+// Seja bem-vindo(a) ao meu GitHub 👋
 
-nelson_martins@github:~$ cat skills.txt
-🖥️ Tecnologias que estou estudando:
+public class NelsonMartins {
 
-- Python 🐍
-- Django 🌐
-- SQL (MySQL e SQLite) 🗄️
-- HTML & CSS 🎨 (básico)
-- Testes automatizados 🧪 (TDD, Pytest, Unittest)
-- Padrões de Projeto (Design Patterns) 🔥
-- Web Scraping & Automação ⚙️ (Selenium, Requests, BeautifulSoup)
-- Interfaces gráficas 🎛️ (PySide6 - Qt6)
+    private String nome = "Nelson Martins";
+    private String objetivo = "Conseguir um emprego como desenvolvedor Java Backend";
+    private List<String> interesses = Arrays.asList(
+        "Java", "Desenvolvimento Back-end", 
+    );
 
-nelson_martins@github:~$ cat goals.txt
-🚀 Objetivo:
-Trabalhar com automação, desenvolvimento web e criação de APIs.
-Estou construindo uma base sólida em backend para me tornar um desenvolvedor profissional.
+    public void sobreMim() {
+        System.out.println("💡 Analista e Desenvolvedor de Sistema");
+        System.out.println("📌 Programador Back-end Java");
+    }
 
-nelson_martins@github:~$ cat links.txt
-🔗 LinkedIn: https://linkedin.com/in/nelsomartinss
-🗂️ Portfólio: (em construção)
-📫 Email: nelsonmartinsjp2001@gmail.com
+    public void tecnologiasQueEstudo() {
+        System.out.println("💻 Java | Spring Boot");
+        System.out.println("🛠️ Git | VS Code | IntelliJ IDEA ");
+    }
 
-nelson_martins@github:~$ echo "Seja bem-vindo ao meu perfil e acompanhe minha jornada no mundo da programação!"
+    public static void main(String[] args) {
+        NelsonMartins eu = new NelsonMartins();
+        eu.sobreMim();
+        eu.tecnologiasQueEstudo();
+    }
+}
