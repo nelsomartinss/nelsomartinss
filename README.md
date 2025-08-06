@@ -8,13 +8,13 @@ Atualmente, estou aprofundando meus conhecimentos em boas práticas de UI/UX, ac
 🔭 Um dos projetos que desenvolvi foi um portfólio pessoal, criado com ReactJS e estilizado com CSS puro. 
 Nele, centralizo todos os meus projetos, contatos e informações profissionais. É uma aplicação responsiva e pensada para apresentar meu trabalho de forma objetiva e visual.
 
-🔗 Acesse aqui: portfolionelsomartinss.netlify.app
+🔗 Acesse aqui: <a href="portfolionelsomartinss.netlify.app" target="_blank">portfolionelsomartinss.netlify.app</a>
 
 💬 Ficou com alguma dúvida, quer trocar uma ideia sobre programação ou tem uma oportunidade para conversar?
 Sinta-se à vontade para me chamar no LinkedIn, e-mail ou até mesmo no WhatsApp. Será um prazer compartilhar experiências e aprender junto!
 
-📧 nelsonmartinsjp2001@gmail.com
-🔗 linkedin.com/in/nelsomartinss
+📧 <a href="mailto:nelsonmartinsjp2001@gmail.com" target="_blank">nelsonmartinsjp2001@gmail.com</a>
+🔗  <a href="linkedin.com/in/nelsomartinss" target="_blank">linkedin.com/in/nelsomartinss</a>
 
 ---
 
