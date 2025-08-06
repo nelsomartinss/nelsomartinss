@@ -13,7 +13,7 @@ Nele, centralizo todos os meus projetos, contatos e informações profissionais.
 💬 Ficou com alguma dúvida, quer trocar uma ideia sobre programação ou tem uma oportunidade para conversar?
 Sinta-se à vontade para me chamar no LinkedIn, e-mail ou até mesmo no WhatsApp. Será um prazer compartilhar experiências e aprender junto!
 
-📧 <a href="mailto:nelsonmartinsjp2001@gmail.com" target="_blank">nelsonmartinsjp2001@gmail.com</a>
+📧 <a href="mailto:nelsonmartinsjp2001@gmail.com" target="_blank">nelsonmartinsjp2001@gmail.com</a> <br>
 🔗  <a href="linkedin.com/in/nelsomartinss" target="_blank">linkedin.com/in/nelsomartinss</a>
 
 ---
