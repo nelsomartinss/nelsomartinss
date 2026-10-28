@@ -21,11 +21,3 @@ Atuo no desenvolvimento de aplicações web completas, do front-end ao back-end,
 [ToDo List](https://nelsomartinss.github.io/toDoList/) - SPA para gerenciamento de tarefas, desenvolvida com React, TypeScript e Vite, com React Router, Axios e simulação de API usando Mirage JS.
 
 [API de Vendas](https://github.com/nelsomartinss/CRUD-nodejs-express-mongodb) - API RESTful em Node.js e Express para gerenciar dados de vendas mensais, com CRUD completo e MongoDB via Mongoose.
-
----
-
-**Curiosidades:**
-
-- Gamer 🎮
-- Guitarrista 🎸
-- Entusiasta de motos clássicas 🏍️
