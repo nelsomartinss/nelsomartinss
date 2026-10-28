@@ -9,10 +9,8 @@ Atuo no desenvolvimento de aplicações web completas, do front-end ao back-end,
 **Atualmente estou focado em:**
 
 - **Desenvolvimento Fullstack:** Criando interfaces com React/Next.js e TypeScript e APIs com Node.js, Express e NestJS.
-- **Back-end com Java:** Aprofundando os fundamentos da linguagem e praticando com exercícios.
-- **Inteligência Artificial:** Estudando IA e como integrá-la a aplicações web.
-- **Banco de Dados:** Modelagem e persistência com MongoDB e Mongoose.
-- **Boas Práticas:** Código limpo, componentização e organização de projetos.
+- **Inteligência Artificial:** Estudando IA para utilizar no desenvolvimento de software.
+- **Produto:** Entender a real dor/necessidades dos clientes antes do código.
 
 <br clear="right"/>
 
