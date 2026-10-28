@@ -12,8 +12,6 @@ Atuo no desenvolvimento de aplicações web completas, do front-end ao back-end,
 - **Inteligência Artificial:** Estudando IA para utilizar no desenvolvimento de software.
 - **Produto:** Entender a real dor/necessidades dos clientes antes do código.
 
-<br clear="right"/>
-
 ---
 
 **Algumas coisas que construí:**
