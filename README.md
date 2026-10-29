@@ -1,6 +1,6 @@
 ## Olá! 🖖🏻
 
-<img align="right" src="./assets/astro-floating.svg" width="240" alt=""/>
+<!-- <img align="right" src="./assets/astro-floating.svg" width="240" alt=""/> -->
 
 Eu sou o [Nelson](https://linkedin.com/in/nelsomartinss), desenvolvedor Full Stack, natural da Paraíba e graduado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário de João Pessoa (UNIPÊ).
 
